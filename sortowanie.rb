@@ -1,4 +1,5 @@
 def bubble_sort(tab)
+print "costam"
 return tab if tab.size <= 1
 
 swap = true
